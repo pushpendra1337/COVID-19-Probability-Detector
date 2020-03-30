@@ -84,7 +84,3 @@ Feel free to contact me!
 Anyone can help us by suggesting the new improvements and features.
 >**I truly ❤️ pull requests!**
 >See also the list of [contributors](https://github.com/pushpendra1337/contributors/) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
