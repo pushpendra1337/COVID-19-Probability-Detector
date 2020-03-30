@@ -71,7 +71,7 @@ Project is: _in progress_
 ## Contact
 Created by ***Pushpendra Yadav***
 Email - (pushpendray1337@gmail.com)
-Instagram - [https://instagram.com/sinister_._._]
+Instagram - (https://instagram.com/sinister_._._)
 Feel free to contact me!
 
 ## Authors and Contributers
