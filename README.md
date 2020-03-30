@@ -21,6 +21,7 @@
 ## Screenshots
 ![Home UI](./img/screenshot1.png)
 Homepage
+
 ![Result Page](./img/screenshot2.png)
 Result Page
 
